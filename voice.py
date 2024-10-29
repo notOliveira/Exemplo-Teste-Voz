@@ -4,6 +4,7 @@ import tkinter as tk
 import customtkinter as ctk
 import threading
 
+print("Iniciando reconhecimento de voz...\nPara finalizar, pressione Ctrl+C no terminal, ou feche a janela pelo programa.")
 # Inicializa o reconhecedor de fala
 recognizer = sr.Recognizer()
 
