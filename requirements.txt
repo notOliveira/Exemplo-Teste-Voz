@@ -1,0 +1,7 @@
+pyaudio
+customtkinter
+transformers
+torch
+torchvision
+torchaudio
+speechrecognition
