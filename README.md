@@ -1,4 +1,4 @@
-# Como inicializar o programa pela primeira vez
+# Como inicializar o programa
 
 Com Python instalado em sua máquina, você deverá utilizar os seguintes comandos na raiz do projeto:
  
@@ -7,7 +7,7 @@ Com Python instalado em sua máquina, você deverá utilizar os seguintes comand
 Exemplo-Voz> python.exe -m venv venv
 ```
 
-= Para ativar e utilizar a venv como interpretador ao invés do python em sua máquina
+- Para ativar e utilizar a venv como interpretador ao invés do python em sua máquina
 ```
 Exemplo-Voz> .\venv\Scripts\activate
 ```
